@@ -1,4 +1,4 @@
-# OIBSIP
+# ATM Interface Using Java
 Project Overview:
 This Java program is a simple banking application that simulates basic operations for a savings account. It allows users to create an account, deposit and withdraw money, and view the transaction history. The program is designed to handle multiple accounts and ensures safe transactions by validating input amounts and managing account balances.
 
